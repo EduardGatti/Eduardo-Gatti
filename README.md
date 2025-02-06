@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu perfil do GitHub.  
 
-🔭 Atualmente, estou trabalhando com Sucesso do Cliente  
 🌱 Sou Técnico em Desenvolvimento de Sistemas.  
 😄 Pronomes: ele/dele 
 
