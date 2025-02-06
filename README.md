@@ -1,4 +1,4 @@
-# Olá, eu sou Eduardo Gatti 😊  
+# Olá, eu sou Eduardo Gatti
 
 Bem-vindo ao meu perfil do GitHub.  
 
