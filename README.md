@@ -10,11 +10,11 @@ Welcome to my GitHub profile.
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical) <!-- Substitua "seu-usuario-github" pelo seu nome de usuário -->  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical) <!-- Substitua "" pelo seu nome de usuário -->  
 
 ## Top Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical) <!-- Substitua "seu-usuario-github" pelo seu nome de usuário -->  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical) <!-- Substitua "EduardGatti" pelo seu nome de usuário -->  
 
 ---  
 
