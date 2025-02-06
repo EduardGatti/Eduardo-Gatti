@@ -19,7 +19,12 @@ Bem-vindo ao meu perfil do GitHub.
 ---  
 
 💻 Technologies and tools I'm learning:  
-HTML5, CSS3, JavaScript, React, GitHub, MySQLng)  
+##![HTML5](https://upload.wikimedia.org/wikipedia/commons/5/51/HTML5_logo_and_wordmark.svg)  
+##![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg)  
+##![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
+##![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
+##![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
+##![MySQL](https://upload.wikimedia.org/wikipedia/commons/b/b2/MySQL.png)   
 
 📫 Reach me:  
 - Email: [egatti662@gmail.com](mailto:egatti662@gmail.com)  
