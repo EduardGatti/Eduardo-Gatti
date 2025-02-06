@@ -1,10 +1,10 @@
-# Hi, I'm Eduardo Gatti 😊  
+# Olá, eu sou Eduardo Gatti 😊  
 
-Welcome to my GitHub profile.  
+Bem-vindo ao meu perfil do GitHub.  
 
-🔭 I’m currently working on Customer Success  
-🌱 I'm a FullStack developer student.  
-😄 Pronouns: he/him  
+🔭 Atualmente, estou trabalhando com Sucesso do Cliente  
+🌱 Sou Técnico em Desenvolvimento de Sistemas.  
+😄 Pronomes: ele/dele 
 
 ---  
 
